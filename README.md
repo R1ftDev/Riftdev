@@ -1,10 +1,12 @@
 # Welcome to My Profile
 
-![Discord](https://lanyard.cnrad.dev/api/1419409155239706694)
+
+[![Discord](https://img.shields.io/badge/Discord-1419409155239706694-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1419409155239706694)
+
 
 Hi! I'm C or also know as Chris a 14-year-old developer from the USA who enjoys building software and learning new things.
 
-I focus on **C++**, **TypeScript With Tauri Framework**, **Next.js** , with a strong interest in OGFN projects and creating tools/apps.
+I focus on **C++**, **TypeScript With Tauri**, **Next.js**, with a strong interest in OGFN projects and creating tools/apps.
 
 ## About Me
 
